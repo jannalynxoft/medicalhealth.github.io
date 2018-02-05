@@ -100,7 +100,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 /* ===================================
     04. Plan
 ====================================== */
-.plan-con{background:url(../images/services.jpg) no-repeat center top;background-size:cover;background-attachment:fixed}
+.plan-con{background:url(../images/banner/640031180.jpg) no-repeat center top;background-size:cover;background-attachment:fixed}
 .services-box{width:100%;float:left;padding:50px 0;background:#fff}
 .services-fig{width:162px;height:18px;margin:0 auto 28px;background:url(../images/services_single.png) no-repeat center top}
 .services-box h3{margin-top: 0}
