@@ -3568,7 +3568,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .featured_section78 {
     float: left;
     width: 100%;
-    padding: 115px 0px;
+    /*padding: 115px 0px;*/
     background: #f3f3f3;
     text-align: center;
 }
