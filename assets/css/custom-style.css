@@ -70,6 +70,8 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .banner-con{height:100vh;background:url(../images/banner/163519061.jpg) no-repeat center top;background-size:cover;}
 .banner-con2{height:100vh;background:url(../images/banner/185251725.jpg) no-repeat center top;background-size:cover;}
 .banner-con3{height:100vh;background:url(../images/banner/640031180.jpg) no-repeat center top;background-size:cover;}
+.banner-con3{height:100vh;background:url(../images/banner/man-2933984.jpg) no-repeat center top;background-size:cover;}
+
 .banner-text{height:100vh;display:table;font-size:18px}
 .banner-text > div{display:table-cell;vertical-align:middle}
 .banner-text h3{margin:0 0 22px}
