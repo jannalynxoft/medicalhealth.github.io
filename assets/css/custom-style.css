@@ -245,3 +245,13 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .gallery-banner{background-image:url(../images/gallery-banner.jpg)}
 .gallery-box .otw_portfolio_manager-3-3,.gallery-box .otw_portfolio_manager-3-3 img{height:auto!important}
 .gallery-box .otw-row.otw_portfolio_manager-portfolio-items-holder.otw_portfolio_manager-portfolio-newspaper{margin:0 auto!important}
+
+
+
+.fa-quote-right {
+  color: red;
+}
+
+.fa-quote-left {
+  color: red;
+}
