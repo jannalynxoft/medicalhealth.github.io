@@ -55,6 +55,7 @@ Table of contents
 /* ===================================
     01. Reset
 ====================================== */
+
 body{margin:0;padding:0;background:repeat-x top #fff}
 body,select,input{color:#666;font-size:14px;line-height:24px;font-family:'Poppins',sans-serif}
 img{border:none}
@@ -254,4 +255,10 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 
 .fa-quote-left {
   color: red;
+}
+
+
+.fa-heartbeat
+{
+    color: red;
 }
