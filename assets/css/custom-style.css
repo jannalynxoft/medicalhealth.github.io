@@ -68,8 +68,8 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 /* ===================================
     02. Banner
 ====================================== */
-.banner-con{height:100vh;background:url(../images/banner/163519061.jpg) no-repeat center top;background-size:cover;}
-.banner-con2{height:100vh;background:url(../images/banner/185251725.jpg) no-repeat center top;background-size:cover;}
+.banner-con{height:100vh;background:url(../images/banner/site-img243.jpg) no-repeat center top;background-size:cover;}
+.banner-con2{height:100vh;background:url(../images/banner/site-img243.jpg) no-repeat center top;background-size:cover;}
 /*.banner-con3{height:100vh;background:url(../images/banner/640031180.jpg) no-repeat center top;background-size:cover;}*/
 .banner-con3{height:100vh;background:url(../images/banner/man-2933984.jpg) no-repeat center top;background-size:cover;}
 
@@ -192,7 +192,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .sub-banner{height:272px;display:table}
 .sub-banner h2{font-size:42px;margin:0 0 25px}
 .sub-banner > div{display:table-cell;vertical-align:middle}
-.about-banner{background-image:url(../images/about-banner.jpg)}
+.about-banner{background-image:url(../images/about/page-title-bg6.jpg)}
 /* ===================================
     12. Breadcrumb
 ====================================== */
@@ -228,7 +228,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .wood-box{background:url(../images/wood-bg.jpg) no-repeat center top;background-size:cover}
 .wood-box h2 span{display:block;font-size:18px;margin:10px 0 0;font-family:'Poppins',sans-serif}
 .wood-box .transparent-btn a{border:2px solid #fff}
-.contact-banner{background-image:url(../images/contact-banner.jpg)}
+.contact-banner{background-image:url(../images/contact/page-title-bg1.jpg)}
 .mailing-address{font-size:16px}
 .mailing-address p{margin:0 0 72px}
 .mailing-info{font-size:14px}
@@ -243,7 +243,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .btn{display:inline-block;vertical-align:top;width:auto;margin-bottom:10px}
 .form-control{margin-bottom:15px}
 .btn-primary{background-color:#efaa15;border-color:#efaa15}
-.gallery-banner{background-image:url(../images/gallery-banner.jpg)}
+.gallery-banner{background-image:url(../images/gallery/site-img32.jpg)}
 .gallery-box .otw_portfolio_manager-3-3,.gallery-box .otw_portfolio_manager-3-3 img{height:auto!important}
 .gallery-box .otw-row.otw_portfolio_manager-portfolio-items-holder.otw_portfolio_manager-portfolio-newspaper{margin:0 auto!important}
 
