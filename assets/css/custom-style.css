@@ -179,7 +179,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 /* ===================================
     10. Support
 ====================================== */
-.support{padding:45px 0 35px;background:url(../images/support-bg.jpg) no-repeat center top;background-size:cover}
+.support{padding:45px 0 35px;background:url(../images/jkl.jpg) no-repeat center top;background-size:cover}
 .call-us h3{font-size:30px;line-height:36px}
 .call-us h3 span{display:block;font-size:18px;font-family:'Poppins',sans-serif}
 .phone-icon{width:60px;height:60px;line-height:60px;border:1px solid #efaa15}
@@ -197,7 +197,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
     12. Breadcrumb
 ====================================== */
 .breadcrumb{margin:0;padding:0;font-size:18px;background:none;border-radius:0}
-.breadcrumb > .active{color:#efaa15}
+.breadcrumb > .active{color:#d91e18}
 .breadcrumb li a{color:#fff}
 .breadcrumb > li + li:before{padding:0 5px;color:#fff;content:">";vertical-align:middle}
 /* ===================================
@@ -206,7 +206,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .about-img{margin:0 0 40px}
 .about-box h2{margin:0 0 15px}
 .about-box p{margin:30px 0 0}
-.small-box ul li,.mailing-info{float:left;width:100%;padding:40px 25px;margin:0 0 20px;border:1px solid #efaa15}
+.small-box ul li,.mailing-info{float:left;width:100%;padding:40px 25px;margin:0 0 20px;border:1px solid black}
 .small-box ul li .smallbox-inner h3{margin:0 0 15px}
 .small-box ul li:last-child{margin:0}
 .carpenters{margin:50px 0 0}
@@ -236,7 +236,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .mailing-info figure{padding:0 0 0 40px}
 .mailing-info .fa{width:65px;height:65px;font-size:30px;line-height:65px}
 .mailing-info{margin:0;padding:40px 0;min-height:154px}
-.mailing-info a{color:#efaa15;text-decoration:none}
+.mailing-info a{color:black;text-decoration:none}
 .mailing-info a:hover{color:#431f09}
 .maps{width:100%;height:400px;pointer-events:none}
 .maps iframe{width:100%}

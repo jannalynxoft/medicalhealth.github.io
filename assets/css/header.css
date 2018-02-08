@@ -14,7 +14,7 @@
 .site-header .navbar-default .navbar-nav > li > a:before{position:absolute;left:0;top:0;font-size:6px;content:"";color:#efaa15;font-family:FontAwesome}
 
 .site-header .navbar-default .container-fluid{padding:0}
-.site-header .navbar-default .navbar-nav > li > a:hover{color:#efaa15}
+.site-header .navbar-default .navbar-nav > li > a:hover{color:}
 .site-header .navbar-default .navbar-nav > .open > a,.site-header .navbar-default .navbar-nav > .open > a:focus,.site-header .navbar-default .navbar-nav > .open > a:hover,.site-header .dropdown-menu > li > a:focus,.site-header .dropdown-menu > li > a:hover,.site-header .navbar-default .navbar-nav > .active > a,.site-header .navbar-default .navbar-nav > .active > a:focus,.site-header .navbar-default .navbar-nav > .active > a:hover{color:#efaa15;background:none}
 .site-header .dropdown-menu{padding:20px 10px 15px;top:83px;min-width:200px;border-radius:0;box-shadow:none;border:none;left:-53px;background:#efaa15;text-align:center}
 .site-header .dropdown-menu:before{position:absolute;left:0;right:0;top:0;content:'';width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:6px solid #201209;margin:0 auto}
@@ -22,8 +22,8 @@
 .site-header .dropdown-menu > li:last-child > a{border:none}
 .site-header{position:relative}
 .site-header ul.social-icons li{float:left;border-left:1px solid rgba(255,255,255,0.1)}
-.site-header ul.social-icons li a{padding:0;width:82px;text-align:center;line-height:82px;color:#efaa15;display:block;font-size:16px}
-.site-header ul.social-icons li a:hover{background:#efaa15;color:#431f09}
+.site-header ul.social-icons li a{padding:0;width:82px;text-align:center;line-height:82px;color:#d91e18;display:block;font-size:16px}
+.site-header ul.social-icons li a:hover{background:#d91e18;color:#431f09}
 .site-header ul.social-icons{margin:0;list-style:none;padding:0;position:absolute;right:0;top:0}
 .site-header .dropdown-menu > li > a:hover{background:#431f09;color:#efaa15}
 .site-header .navbar-default .navbar-nav > li > a .caret{border:none;width:7px;height:10px;background:url(../images/arrow-down.png) no-repeat right top}
