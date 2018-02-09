@@ -10,12 +10,12 @@
 .site-header .site-branding .site-title a{color:#fff;font-weight:700;text-transform:uppercase}
 .site-header .navbar-default .navbar-nav > li{padding:30px 17px;text-transform:uppercase}
 .site-header .navbar-default .navbar-nav > li:first-child{padding-left:40px}
-.site-header .navbar-default .navbar-nav > li > a{color:#fff;padding:0;font-weight:600;position:relative;padding-left:12px}
+.site-header .navbar-default .navbar-nav > li > a{color:black;padding:0;font-weight:600;position:relative;padding-left:12px}
 .site-header .navbar-default .navbar-nav > li > a:before{position:absolute;left:0;top:0;font-size:6px;content:"";color:#efaa15;font-family:FontAwesome}
 
 .site-header .navbar-default .container-fluid{padding:0}
-.site-header .navbar-default .navbar-nav > li > a:hover{color:}
-.site-header .navbar-default .navbar-nav > .open > a,.site-header .navbar-default .navbar-nav > .open > a:focus,.site-header .navbar-default .navbar-nav > .open > a:hover,.site-header .dropdown-menu > li > a:focus,.site-header .dropdown-menu > li > a:hover,.site-header .navbar-default .navbar-nav > .active > a,.site-header .navbar-default .navbar-nav > .active > a:focus,.site-header .navbar-default .navbar-nav > .active > a:hover{color:#efaa15;background:none}
+.site-header .navbar-default .navbar-nav > li > a:hover{color:red}
+.site-header .navbar-default .navbar-nav > .open > a,.site-header .navbar-default .navbar-nav > .open > a:focus,.site-header .navbar-default .navbar-nav > .open > a:hover,.site-header .dropdown-menu > li > a:focus,.site-header .dropdown-menu > li > a:hover,.site-header .navbar-default .navbar-nav > .active > a,.site-header .navbar-default .navbar-nav > .active > a:focus,.site-header .navbar-default .navbar-nav > .active > a:hover{color:black;background:none}
 .site-header .dropdown-menu{padding:20px 10px 15px;top:83px;min-width:200px;border-radius:0;box-shadow:none;border:none;left:-53px;background:#efaa15;text-align:center}
 .site-header .dropdown-menu:before{position:absolute;left:0;right:0;top:0;content:'';width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-top:6px solid #201209;margin:0 auto}
 .site-header .dropdown-menu > li > a{padding:7px 10px;color:#431f09;font-weight:500;text-align:left!important;border-bottom:1px solid #431f09}
