@@ -11,7 +11,8 @@
 
 .white-text{color:#fff!important}
 .robotoslub-font{font-family:'Roboto Slab',serif}
-.padding-top{padding-top:98px}
+/*.padding-top{padding-top:98px}*/
+.padding-top{padding-top:30px}
 .padding-bottom{padding-bottom:98px}
 .inline-display{float:none!important;display:inline-block;vertical-align:top}
 .no-padding{padding:0}
