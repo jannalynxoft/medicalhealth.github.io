@@ -1156,8 +1156,8 @@
 .divider_line10 {
 	float: left;
 	width: 100%;
-	padding-top: 100px;
-	margin-bottom: 100px;
+	/*padding-top: 100px;
+	margin-bottom: 100px;*/
 	background: url(../images/hcross-lines.jpg) repeat-x left bottom;
 	text-align: center;
 }
