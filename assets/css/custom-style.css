@@ -56,8 +56,12 @@ Table of contents
     01. Reset
 ====================================== */
 
+
+
+
+
 body{margin:0;padding:0;background:repeat-x top #fff}
-body,select,input{color:#666;font-size:14px;line-height:24px;font-family:'Poppins',sans-serif}
+body,select,input{color:#666;font-size:16px;line-height:24px;font-family:'Poppins',sans-serif}
 img{border:none}
 ::-moz-selection{color:#fff;background:#000}
 ::selection{color:#fff;background:#000}
@@ -2092,7 +2096,7 @@ a:hover{outline:none;-webkit-transition:all .6s ease-in-out;-moz-transition:all 
 .featured_section35 p {
     font-size: 16px;
     line-height: 25px;
-    color: #999;
+
     font-weight: 300;
 }
 
@@ -14668,3 +14672,4 @@ ul.footer_social_links {
 
 
 }
+
