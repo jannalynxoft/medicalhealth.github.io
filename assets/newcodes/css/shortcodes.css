@@ -761,6 +761,7 @@
     display: block;
     bottom: 1px;
     width: 100%;
+    display: none;
 }
 .stcode_title5 .text{
     z-index: 20;

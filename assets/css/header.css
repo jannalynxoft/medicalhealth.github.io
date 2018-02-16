@@ -50,11 +50,11 @@
     #masterhead.site-header{text-align:left;padding:20px 2%}
     .site-header .navbar-default .navbar-toggle{right:0;border-radius:0;position:absolute;border-color:#efaa15;margin:-3px 0 0;background:#efaa15}
     .site-header .navbar-default .navbar-toggle .icon-bar{background-color:#fff}
-    .site-header .navbar-default .navbar-toggle:focus,.site-header .navbar-default .navbar-toggle:hover{background-color:#efaa15}
+    .site-header .navbar-default .navbar-toggle:focus,.site-header .navbar-default .navbar-toggle:hover{background-color:#d91e18}
     .site-header .navbar-default .navbar-toggle:focus .icon-bar,.site-header .navbar-default .navbar-toggle:hover .icon-bar{background-color:#000}
     .site-header .navbar-default .navbar-collapse,.site-header .navbar-default .navbar-form{border:none;box-shadow:none}
     .site-header .navbar-nav{margin:0;padding:15px 0;width:290px;min-width:290px}
-    .site-header .collapse,.site-header .collapsing{right:0;top:45px;z-index:99;position:absolute;background-color:#efaa15}
+    .site-header .collapse,.site-header .collapsing{right:0;top:45px;z-index:99;position:absolute;background-color:#d91e18}
     .site-header .navbar-default .navbar-nav > li{float:left;width:100%;padding:0;border-bottom:1px solid #431f09}
     .site-header .navbar-default .navbar-nav > li:first-child{padding-left:0}
     .site-header .navbar-default .navbar-nav > li > a{color:#000;padding:15px}
