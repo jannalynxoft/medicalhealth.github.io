@@ -2254,7 +2254,8 @@ color: black;
     border-right: none;
 }
 .featured_section39 .one_half h1 {
-    font-weight: 300;
+    font-weight: 400;
+    color: white;
 }
 
 
@@ -5582,16 +5583,52 @@ color: black;
 .featured_section139 {
     float: left;
     width: 100%;
-    padding: 120px 0px;
+    padding:68px 0px;
     text-align: center;
     background: #52bed9 url(../images/site-img247.jpg) no-repeat center top;
 }
+
+.featured_section139 p {
+   color: white;
+}
+
 .featured_section139 h1 {
     margin-bottom: 18px;
 }
 .featured_section139 h3 {
     margin-bottom: 30px;
 }
+
+
+
+
+/* featured section 1395 */
+.featured_section1395 {
+    float: left;
+    width: 100%;
+    padding:20px 0px;
+    text-align: center;
+    background: #52bed9 url(../images/site-img247.jpg) no-repeat center top;
+}
+
+.featured_section1395 p {
+   color: white;
+}
+
+.featured_section1395 h1 {
+    margin-bottom: 18px;
+}
+.featured_section1395 h3 {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
 
 
 /* featured section 140 */
