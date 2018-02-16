@@ -5583,8 +5583,10 @@ color: black;
 .featured_section139 {
     float: left;
     width: 100%;
-    padding:68px 0px;
+/*    padding:68px 0px;*/
+  padding:30px 0px;    
     text-align: center;
+
     background:  url(../images/site-img2428.jpg) no-repeat center top;
 }
 
@@ -5636,7 +5638,7 @@ color: black;
     float: left;
     width: 100%;
     padding: 50px 0px;
-    background: #393939 url("../images/christin-hume-505815.jpg");
+    background: #393939 url("../images/world-1185076.png");
     background-attachment: fixed;
     background-origin: initial;
     background-clip: initial;
@@ -12717,8 +12719,9 @@ ul.adsbanner-list {
 }
 .featured_section39 .one_half.last {
     width: 100%;
-    padding-bottom: 100px;
+   /* padding-bottom: 100px;*/
     border-right: none;
+
 }
 
 .featured_section41 .slidesec img {
@@ -14132,7 +14135,7 @@ ul.footer_social_links {
 }
 .featured_section39 .one_half.last {
     width: 100%;
-    padding-bottom: 100px;
+    /*padding-bottom: 100px;*/
     border-right: none;
 }
 
@@ -14624,6 +14627,7 @@ ul.footer_social_links {
 }
 .less3 {
     width: 100%;
+    height: 50px;
 }
 .less4 {
     width: 100%;
